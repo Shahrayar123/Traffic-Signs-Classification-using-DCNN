@@ -57,7 +57,7 @@ After that I do some preprocessing, design CNN model architecture and compile mo
 - loss function : `categorical_crossentropy`
 - metrics: `accuracy`
 
-Then I write `callback` method to stop training of model when desired loss and accuracy is achieved
+Then I write `callback` method to stop training of model when desired loss and accuracy will achieve
 ### After training the model the accuracy and loss is:
 
 

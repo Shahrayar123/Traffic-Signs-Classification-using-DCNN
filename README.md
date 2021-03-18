@@ -71,7 +71,7 @@ Then perform some prediction on unseen data and compare predicted result with ac
 
 <br>
 
-After that I plot confusion matrix
+After that I plot confusion matrix to see the performance of model
 
 ### **Confusion Matrix**
 ![heatmap](https://github.com/Shahrayar123/Traffic-Signs-Classification-using-CNN/blob/main/images/heatmap.png)

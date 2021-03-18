@@ -58,7 +58,7 @@ After that I do some preprocessing, design CNN model architecture and compile mo
 - metrics: `accuracy`
 
 Then I write `callback` method to stop training of model when desired loss and accuracy will achieve
-### After training the model the accuracy and loss is:
+### After training the model, Accuracy and Loss are:
 
 
 ![accuracy and loss](https://github.com/Shahrayar123/Traffic-Signs-Classification-using-CNN/blob/main/images/acc_loss_visualization.png)
